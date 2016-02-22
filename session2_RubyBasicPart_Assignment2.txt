@@ -1,0 +1,5 @@
+Difference between print and puts is of newline.
+
+With puts the cursor moves to a new line but with print the cursor stays on to the same line.
+
+Also puts automatically unpacks arrays, while print does not:
